@@ -26,7 +26,8 @@ Building the software
  
  install the required packages (first time only)
  -----------------------------------------------
-  Make sure to download all the required Python pacjkages by running the command 'pip3 install -m requirements.txt'
+  Make sure to download all the required Python pacjkages by running the command 'pip3 install -r requirements.txt'
+  NOTE: It may take several minutes to install the packages.
  
 How to use the software
 ------------------------
