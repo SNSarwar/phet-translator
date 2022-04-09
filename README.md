@@ -13,16 +13,20 @@ Description of the software package
 We have built the software using Python programming language and have added a user interface (UI) component for easy operation of the translation process.The main input to the tool is a valid PHET simulation file in HTML format that has been downloaded to the local disk (e.g., https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_en.html).
  
 Building the software
-The tool consists of two python files
+ 
+ Download the code: 
+ ------------------
+ 1. Clone the github repository https://github.com/SNSarwar/phet-translator.git
+ 2. go to the folder
+ 
+ The tool consists of two python files and a requirements.txt file
  1. phet_app_v1.py and
  2. g_trans.py
+ 3. requirements.txt
  
- Build instructions:
- --------------------
- 1. Clone the github repository
- 2. go to the folder
- 3. Make sure to download all the required Python pacjkages by running the command 'pip3 install -m requirements.txt'
- 4. then run the code using 'python3 phet_app_v1.py'
+ install the required packages (first time only)
+ -----------------------------------------------
+  Make sure to download all the required Python pacjkages by running the command 'pip3 install -m requirements.txt'
  
 How to use the software
 ------------------------
@@ -35,7 +39,7 @@ Once the file is saved (It would be saved in the download folder)
 
 
 2. Run the PHET Translator Software
-c:>python phet_translator_tool.py
+python3 phet_translator_tool.py
 It will create a web server and will print an url as shown below
 
 
