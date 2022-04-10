@@ -38,8 +38,11 @@ NOTE: The tool requires python 3.9 or higher. Please use anaconda distribution f
 How to use the software
 ------------------------
 1. Downloading a PHET File: 
-First go to the desired PHET simulation file that you like to translate for example,
- https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_en.html then save the HTML file to your disk by usingFile → Save As as shown below (Make sure to select Webpage, HTML only option)
+
+First go to the PHET simulation file that you would like to translate. for example,
+ https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_en.html 
+ 
+ Save the HTML file to your disk by using File → Save As as shown below (Make sure to select Webpage, HTML only option)
 
 
 Once the file is saved (It would be saved in the download folder)
