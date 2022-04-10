@@ -6,11 +6,11 @@ by Shomeek Sarwar
 ----------------------------------
 Introduction
 
-We have developed a software tool to help with easy translation of PHET simulation HTML pages to Bangla. This tool utilizes Google translation tools to automatically perform the translation task. It also provides the user with functionality to edit/delete/add to any translated text if the automatic translation fails to provide the desired text.
+We have developed a software tool to help with easy translation of PHET simulation HTML pages to Bangla. This tool utilizes Google translation tools to automatically perform the translation task. It also provides the user with the functionality to edit, delete, or add to any translated text if the automatic translation fails to provide the desired Bangla text.
 
 Description of the software package
 
-We have built the software using Python programming language and have added a user interface (UI) component for easy operation of the translation process.The main input to the tool is a valid PHET simulation file in HTML format that has been downloaded to the local disk (e.g., https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_en.html).
+We have built the software using Python programming language. We have added a user interface (UI) for easy operation of the translation process. The main input to the tool is a valid PHET simulation file in HTML format that has been downloaded to the local disk (e.g., download https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_en.html).
  
 Building the software
 =====================
@@ -29,7 +29,9 @@ NOTE: The tool requires python 3.9 or higher. Please use anaconda distribution f
  
  Install the required packages (first time only)
  -----------------------------------------------
-  Make sure to download all the required Python packages by running the command 'pip3 install -r requirements.txt'
+  Make sure to download all the required Python packages by running the command:
+  'pip3 install -r requirements.txt'
+  
   NOTE: It may take several minutes to install the packages.
  
 How to use the software
