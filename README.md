@@ -30,6 +30,7 @@ NOTE: The tool requires python 3.9 or higher. Please use anaconda distribution f
  Install the required packages (first time only)
  -----------------------------------------------
   Make sure to download all the required Python packages by running the command:
+  
   'pip3 install -r requirements.txt'
   
   NOTE: It may take several minutes to install the packages.
