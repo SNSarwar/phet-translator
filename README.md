@@ -34,7 +34,7 @@ Make sure to download all the required Python packages by running the command:
 
 NOTE: It may take several minutes to install the packages.
 
-How to use the software
+How to use the software (Please see google doc for images)
 
 Downloading a PHET File: 
 
