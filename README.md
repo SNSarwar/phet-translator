@@ -1,25 +1,31 @@
 PHET Simulation Translation Tool User Guide 
+
 Shomeek Sarwar
 
 Google Doc link with screen shots: https://docs.google.com/document/d/1KVzf5iUOHVrBfmULAym-VFMeRNrYIJWbwhouIskYhF4/edit?usp=sharing 
 
 Introduction
+
 We have developed a software tool to help with easy translation of PHET simulation HTML pages to Bangla. This tool utilizes Google translation tools to automatically perform the translation task. It also provides the user with the functionality to edit, delete, or add to any translated text if the automatic translation fails to provide the desired Bangla text.
+
 Description of the software package
+
 We have built the software using the Python programming language. We have added a user interface (UI) for easy operation of the translation process. The main input to the tool is a valid PHET simulation file in HTML format that has been downloaded to the local disk (e.g., download https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_en.html).
 
 Building the software
 
 NOTE: The tool requires python 3.9 or higher. Please use anaconda distribution for installing python
+
 Download the code:
+
 Clone the github repository https://github.com/SNSarwar/phet-translator.git
 go to the folder
 
 The tool consists of two python files and a requirements.txt file
 
-phet_translator_tool.py 
-g_trans.py
-requirements.txt
+1.phet_translator_tool.py 
+2.g_trans.py
+3.requirements.txt
 
 Install the required packages (first time only)
 
@@ -29,7 +35,9 @@ Make sure to download all the required Python packages by running the command:
 NOTE: It may take several minutes to install the packages.
 
 How to use the software
+
 Downloading a PHET File: 
+
 First go to the PHET simulation file that you would like to translate. For example:
  https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_en.html 
 
