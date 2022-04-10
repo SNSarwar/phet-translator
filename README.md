@@ -6,7 +6,7 @@ by Shomeek Sarwar
 ----------------------------------
 Introduction
 
-We have developed a software tool to help with easy translation of PHET simulation HTML pages to Bangla language. This tool utilizes Google translation tools to automatically perform the translation task and at the same time provides the user with functionality to edit/delete/add to any translated text if the automatic translation fails to provide the desired text.
+We have developed a software tool to help with easy translation of PHET simulation HTML pages to Bangla. This tool utilizes Google translation tools to automatically perform the translation task. It also provides the user with functionality to edit/delete/add to any translated text if the automatic translation fails to provide the desired text.
 
 Description of the software package
 
