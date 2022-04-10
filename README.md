@@ -1,5 +1,5 @@
 # phet-translator
-User guide google doc link: https://docs.google.com/document/d/18H9uJDxRkQET3ho4yVo2Wceg0pgVEA9UMAm3QFw9Uds/edit#heading=h.o4v7b9mtskxk
+User guide google doc link: https://docs.google.com/document/d/1KVzf5iUOHVrBfmULAym-VFMeRNrYIJWbwhouIskYhF4/edit?usp=sharing
 
 Instructions:
 
