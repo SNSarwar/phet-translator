@@ -1,8 +1,6 @@
 # phet-translator
 User guide google doc link: https://docs.google.com/document/d/1KVzf5iUOHVrBfmULAym-VFMeRNrYIJWbwhouIskYhF4/edit?usp=sharing
 
-Instructions:
-
 PHET Simulator Translation Tool User Guide
 by Shomeek Sarwar
 ----------------------------------
